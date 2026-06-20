@@ -183,5 +183,6 @@ Analyzes how payments are made.
 The Personal Expense Tracker Dashboard provides a comprehensive view of financial behavior, helping users understand where money is being spent, identify cost-saving opportunities, and make data-driven budgeting decisions. With total expenses of **₹433,055.28**, the dashboard highlights key spending patterns across categories, payment methods, descriptions, and time periods, enabling smarter personal finance management. 
 
 ### Demo/screenshots
-![image alt](https://github.com/anjali020/Personal-Expense-Tracker/blob/f6fe2c19a31c5f1492926e84de3e111d8d5fda26/images/pivot%20tables.png )                                                [](https://github.com/anjali020/Personal-Expense-Tracker/blob/f6fe2c19a31c5f1492926e84de3e111d8d5fda26/images/pivottable%20and%20chart.png)                      (https://github.com/anjali020/Personal-Expense-Tracker/blob/f6fe2c19a31c5f1492926e84de3e111d8d5fda26/images/charts.png)                                                  
-
+![image alt](https://github.com/anjali020/Personal-Expense-Tracker/blob/f6fe2c19a31c5f1492926e84de3e111d8d5fda26/images/pivot%20tables.png )                                             ![image alt](https://github.com/anjali020/Personal-Expense-Tracker/blob/f6fe2c19a31c5f1492926e84de3e111d8d5fda26/images/pivottable%20and%20chart.png)                     
+![image alt](https://github.com/anjali020/Personal-Expense-Tracker/blob/f6fe2c19a31c5f1492926e84de3e111d8d5fda26/images/charts.png)                                                  
+![image alt](https://github.com/anjali020/Personal-Expense-Tracker/blob/f6fe2c19a31c5f1492926e84de3e111d8d5fda26/images/dashboard.png)
